@@ -70,11 +70,9 @@ public class Main {
                 }
 
             }
-            System.out.println("Все участники пробежали.!!!");
+
         }
-
-
-
+        System.out.println("Все участники пробежали.!!!");
 //        Human.Run(human1.getName(),treadmill.getTreadmill() ,human1.getRun());
 //        Human.Jump(human1.getName(), wall.getWall(), human1.getJump());
 //        Cat.Run(cat1.getName(), treadmill.getTreadmill(), cat1.getRun());
